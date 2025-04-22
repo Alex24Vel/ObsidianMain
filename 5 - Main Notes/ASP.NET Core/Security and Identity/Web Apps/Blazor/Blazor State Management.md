@@ -1,6 +1,10 @@
+Source: https://learn.microsoft.com/en-us/aspnet/core/blazor/state-management?view=aspnetcore-9.0&pivots=server
+
+Tags: #copypasted 
+
 # Server
 
-Source: https://learn.microsoft.com/en-us/aspnet/core/blazor/state-management?view=aspnetcore-9.0&pivots=server
+
 
 ## Maintain user state
 Server-side Blazor is a stateful app framework. Most of the time, the app maintains a connection to the server. The user's state is held in the server's memory in a _circuit_.

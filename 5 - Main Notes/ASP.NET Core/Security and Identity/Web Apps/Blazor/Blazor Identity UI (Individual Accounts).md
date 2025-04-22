@@ -1,5 +1,7 @@
 Source: https://learn.microsoft.com/en-us/aspnet/core/blazor/security/?view=aspnetcore-9.0&tabs=visual-studio#blazor-identity-ui-individual-accounts
 
+Tags: #copypasted
+
 The Blazor Web App template scaffolds Identity code for a SQL Server database. The command line version uses SQLite and includes a SQLite database for Identity.
 
 The template:

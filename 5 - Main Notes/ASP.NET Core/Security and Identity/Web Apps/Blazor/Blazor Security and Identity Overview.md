@@ -1,15 +1,17 @@
+Source: https://learn.microsoft.com/en-us/aspnet/core/blazor/security/?view=aspnetcore-9.0&tabs=visual-studio 
+
 2025-04-19 20:14
 
-Tags: #dotnet #aspnet #blazor #auth #security
+Tags: #dotnet #aspnet #blazor #auth #security #copypasted
 
-Source: https://learn.microsoft.com/en-us/aspnet/core/blazor/security/?view=aspnetcore-9.0&tabs=visual-studio
+
 
 ---
 Blazor uses the existing ASP.NET Core authentication mechanisms to establish the user's identity.
 
 If authorization rule enforcement must be guaranteed, don't implement authorization checks in client-side code. Build a Blazor Web App that only relies on server-side rendering (SSR) for authorization checks and rule enforcement.
 
-[[Razor Pages authorization conventions]] **don't apply to routable Razor components**. If a [[non-routable Razor component is embedded in a page of a Razor Pages app]], the page's authorization conventions indirectly affect the Razor component along with the rest of the page's content.
+[[Razor Pages authorization conventions]] **don't apply to routable Razor components**. If a [[Non-routable Razor component is embedded in a page of a Razor Pages app]], the page's authorization conventions indirectly affect the Razor component along with the rest of the page's content.
 
 ## Securely maintain sensitive data and credentials
 

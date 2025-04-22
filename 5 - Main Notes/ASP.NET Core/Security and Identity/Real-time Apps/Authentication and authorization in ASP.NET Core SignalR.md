@@ -1,6 +1,8 @@
-2025-04-19 22:34
-
 Source: https://learn.microsoft.com/en-us/aspnet/core/signalr/authn-and-authz?view=aspnetcore-9.0
+
+Tags: #copypasted 
+
+2025-04-19 22:34
 
 SignalR can be used with [ASP.NET Core authentication](https://learn.microsoft.com/en-us/aspnet/core/security/authentication/identity?view=aspnetcore-9.0) to associate a user with each connection. Multiple connections may be associated with a single user.
 

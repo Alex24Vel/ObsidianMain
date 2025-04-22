@@ -1,6 +1,6 @@
 2025-04-19 22:59
 
-Tags: #interfaces
+Tags: #interfaces #copypasted
 
 Source: https://learn.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.authorization.iauthorizationrequirement?view=aspnetcore-9.0
 
