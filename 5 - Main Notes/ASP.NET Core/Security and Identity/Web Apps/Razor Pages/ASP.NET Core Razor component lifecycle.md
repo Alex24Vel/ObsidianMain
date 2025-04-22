@@ -1,0 +1,1 @@
+Source: https://learn.microsoft.com/en-us/aspnet/core/blazor/components/lifecycle?view=aspnetcore-9.0

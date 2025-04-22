@@ -1,0 +1,44 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": false,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:\"5 - Main Notes/ASP.NET Core\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 7290572
+      }
+    },
+    {
+      "query": "path:\"2 - Source Material/Docs\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 11972295
+      }
+    },
+    {
+      "query": "path:\"5 - Main Notes/Learning Raspberry Pi\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 9839238
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1.2460498960499,
+  "lineSizeMultiplier": 1.00155925155925,
+  "collapse-forces": false,
+  "centerStrength": 0.304573804573805,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 150,
+  "scale": 1.0000000000000189,
+  "close": true
+}

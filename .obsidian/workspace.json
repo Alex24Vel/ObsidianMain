@@ -1,0 +1,298 @@
+{
+  "main": {
+    "id": "f0237ff4047ee1c1",
+    "type": "split",
+    "children": [
+      {
+        "id": "6e5323dea7d9214d",
+        "type": "tabs",
+        "dimension": 74.14266117969822,
+        "children": [
+          {
+            "id": "5384a7e5d2518b22",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "216acedb719b3cc6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5 - Main Notes/EF Core/The Model/The model.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "The model"
+            }
+          },
+          {
+            "id": "3e47de21c1f756e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5 - Main Notes/EF Core/EF Core.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "EF Core"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "a40be3690e096e77",
+        "type": "tabs",
+        "dimension": 25.857338820301784,
+        "children": [
+          {
+            "id": "a07f8475f2a5e4b0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "5 - Main Notes/EF Core/EF Core.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of EF Core"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "55532a640290952c",
+    "type": "split",
+    "children": [
+      {
+        "id": "e75cf18e86f536b2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "122e30ffe5266c17",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "1f15fc41e407707c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "82542a2aa22dbb58",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 473.5
+  },
+  "right": {
+    "id": "15f9a6da648d9f88",
+    "type": "split",
+    "children": [
+      {
+        "id": "eed8ddc5ec8d686b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f1975cfc205c21d6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Installing dotnet on Raspberry Pi.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Installing dotnet on Raspberry Pi"
+            }
+          },
+          {
+            "id": "3b15655ca7e992df",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Installing dotnet on Raspberry Pi.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Installing dotnet on Raspberry Pi"
+            }
+          },
+          {
+            "id": "04303b60759888af",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "3832af21bff0cd47",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Installing dotnet on Raspberry Pi.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Installing dotnet on Raspberry Pi"
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "9133d714a44176e0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4d656f663dd96af4",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 592.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "3e47de21c1f756e6",
+  "lastOpenFiles": [
+    "5 - Main Notes/EF Core/DBContextFactory.md",
+    "5 - Main Notes/EF Core/DbContext.md",
+    "5 - Main Notes/EF Core/EF Core in Blazor.md",
+    "5 - Main Notes/EF Core/The Model/The model.md",
+    "5 - Main Notes/EF Core/The Model/EF Migrations.md",
+    "5 - Main Notes/EF Core/Saving Data (CRUD)/Concurrency control.md",
+    "5 - Main Notes/EF Core/Querying Data/Change Tracking.md",
+    "5 - Main Notes/Unit Of Work.md",
+    "5 - Main Notes/ASP.NET Core/Security and Identity/Safe storage of app secrets in development in ASP.NET Core.md",
+    "5 - Main Notes/ASP.NET Core/Security and Identity/Untitled.md",
+    "5 - Main Notes/EF Core/EF Core.md",
+    "5 - Main Notes/EF Core/Saving Data (CRUD)/Saving Data.md",
+    "5 - Main Notes/EF Core/Querying Data/Querying Data.md",
+    "5 - Main Notes/EF Core/Saving Data (CRUD)",
+    "5 - Main Notes/EF Core/Querying Data",
+    "5 - Main Notes/EF Core/The Model",
+    "5 - Main Notes/C#/Language Integrated Query (LINQ).md",
+    "5 - Main Notes/C#",
+    "5 - Main Notes/EF Core",
+    "6 - Work Notes/Logging/Patching up Serialization Errors.md",
+    "6 - Work Notes/Why not Linq2Db with Identity.md",
+    "6 - Work Notes/Logging",
+    "Notes to be take to Work/Untitled.md",
+    "6 - Work Notes/Cookies vs JWT.md",
+    "5 - Main Notes/ASP.NET Core/Security and Identity/Web Apps/Blazor/Blazor Identity UI (Individual Accounts).md",
+    "5 - Main Notes/ASP.NET Core/Security and Identity/Identity/Multi-factor authentication in ASP.NET Core.md",
+    "5 - Main Notes/ASP.NET Core/Security and Identity/Identity/Account Confirmation and Password Recovery.md",
+    "5 - Main Notes/ASP.NET Core/Security and Identity/Web Apps/Blazor/Blazor Security and Identity Overview.md",
+    "5 - Main Notes/ASP.NET Core/Security and Identity/Web Apps/Blazor/Blazor State Management.md",
+    "5 - Main Notes/ASP.NET Core/Security and Identity/Identity",
+    "5 - Main Notes/ASP.NET Core/Security and Identity/Web Apps/Blazor/ASP.NET Core Blazor routing and navigation.md",
+    "5 - Main Notes/ASP.NET Core/Security and Identity/Web Apps/Blazor/Cascading values and parameters.md",
+    "5 - Main Notes/ASP.NET Core/Security and Identity/Web Apps/Razor Pages/ASP.NET Core Razor component lifecycle.md",
+    "5 - Main Notes/ASP.NET Core/Security and Identity/Web Apps",
+    "5 - Main Notes/ASP.NET Core/Security and Identity/Interfaces",
+    "6 - Work Notes",
+    "Untitled.canvas"
+  ]
+}
