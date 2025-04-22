@@ -24,12 +24,24 @@
             "id": "65a7bebdb0cb41b1",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "0 - Getting started with Obsidian/ExampleGraphUsage.jpg"
+                "file": "0 - Getting started with Obsidian/README.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-image",
-              "title": "ExampleGraphUsage"
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ],
@@ -46,13 +58,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0 - Getting started with Obsidian/ExampleGraphUsage.jpg",
+                "file": "0 - Getting started with Obsidian/README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of ExampleGraphUsage"
+              "title": "Outline of README"
             }
           }
         ]
@@ -219,8 +231,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "122e30ffe5266c17",
+  "active": "65a7bebdb0cb41b1",
   "lastOpenFiles": [
+    "0 - Getting started with Obsidian/ExampleGraphUsage.jpg",
     "0 - Getting started with Obsidian/Tags.md",
     "0 - Getting started with Obsidian/README.md",
     "6 - Random Notes/Cookies vs JWT.md",
@@ -246,8 +259,6 @@
     "5 - Main Notes/ASP.NET Core/Security and Identity/ASP.NET Core server-side and Blazor Web App additional security scenarios.md",
     "5 - Main Notes/ASP.NET Core/Security and Identity/ASP.NET Core Security and Identity.md",
     "5 - Main Notes/ASP.NET Core/Security and Identity/Web Apps/authorization filters.md",
-    "5 - Main Notes/ASP.NET Core/Security and Identity/Web Apps/Razor Pages/Authorize filter attribute.md",
-    "0 - Getting started with Obsidian/ExampleGraphUsage.jpg",
     "0 - Getting started with Obsidian",
     "3 - Indexes/Placeholder.txt.txt",
     "2 - Source Material/Videos/Placeholder.txt.txt",
