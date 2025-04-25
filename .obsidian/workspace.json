@@ -19,6 +19,78 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "b72d17b2260c24e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5 - Main Notes/Dot Net/ASP.NET Core/Security and Identity/Miscellaneous/Razor Pages authorization conventions.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Razor Pages authorization conventions"
+            }
+          },
+          {
+            "id": "932d1fb6357fa416",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5 - Main Notes/Dot Net/ASP.NET Core/0 - ASP.NET Core.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "0 - ASP.NET Core"
+            }
+          },
+          {
+            "id": "a1f9fc8d44255641",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5 - Main Notes/Dot Net/EF Core/0 - EF Core.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "0 - EF Core"
+            }
           }
         ]
       },
@@ -205,45 +277,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5384a7e5d2518b22",
+  "active": "122e30ffe5266c17",
   "lastOpenFiles": [
-    "5 - Main Notes/Blazor CSS/Blazor Css.md",
-    "5 - Main Notes/Blazor CSS",
-    "5 - Main Notes/ASP.NET Core/Performance/Caching/Distributed Caching.md",
-    "5 - Main Notes/ASP.NET Core/Performance/Caching/In-memory Cache.md",
-    "5 - Main Notes/ASP.NET Core/Performance/Caching/Caching.md",
-    "5 - Main Notes/ASP.NET Core/Performance/Performance.md",
-    "5 - Main Notes/ASP.NET Core/Performance/Caching",
-    "5 - Main Notes/ASP.NET Core/Performance",
-    "5 - Main Notes/ASP.NET Core/Funtamentals/Fundamentals.md",
-    "5 - Main Notes/ASP.NET Core/Funtamentals/Dependency Injection.md",
-    "5 - Main Notes/ASP.NET Core/Funtamentals",
-    "5 - Main Notes/ASP.NET Core/Advanced/Background Service.md",
-    "5 - Main Notes/ASP.NET Core/Advanced/Advanced.md",
-    "5 - Main Notes/ASP.NET Core/Advanced",
-    "0 - Getting started with Obsidian/README.md",
-    "0 - Getting started with Obsidian/ExampleGraphUsage.jpg",
-    "0 - Getting started with Obsidian/Tags.md",
-    "6 - Random Notes/Cookies vs JWT.md",
-    "6 - Random Notes/Why not Linq2Db with Identity.md",
+    "5 - Main Notes/Dot Net",
+    "5 - Main Notes/Dot Net/EF Core/0 - EF Core.md",
+    "5 - Main Notes/Dot Net/EF Core/The Model/0 - The model.md",
+    "5 - Main Notes/Dot Net/EF Core/Saving Data (CRUD)/0 - Saving Data.md",
+    "5 - Main Notes/Dot Net/EF Core/Querying Data/0 - Querying Data.md",
+    "5 - Main Notes/Dot Net/EF Core/Miscellaneous/0 - Miscellaneous.md",
+    "5 - Main Notes/Dot Net/CSharp/Language Integrated Query (LINQ).md",
+    "5 - Main Notes/Dot Net/CSharp/0 - CSharp.md",
+    "5 - Main Notes/Dot Net/ASP.NET Core/0 - ASP.NET Core.md",
+    "5 - Main Notes/Dot Net/ASP.NET Core/Security and Identity/0 - Security and Identity.md",
+    "5 - Main Notes/Dot Net/ASP.NET Core/Security and Identity/Web Apps/Authorization Filters.md",
+    "5 - Main Notes/Dot Net/ASP.NET Core/Security and Identity/Web Apps/Razor Pages/0 - Razor Pages.md",
+    "5 - Main Notes/Dot Net/ASP.NET Core/Security and Identity/Web Apps/Blazor/0 - Blazor Security.md",
+    "5 - Main Notes/Dot Net/ASP.NET Core/Security and Identity/Real-time Apps/0 - Real-time Apps.md",
+    "5 - Main Notes/Dot Net/ASP.NET Core/Security and Identity/Miscellaneous/0  - Miscellaneous.md",
+    "5 - Main Notes/Dot Net/ASP.NET Core/Security and Identity/Interfaces/0 - Interfaces.md",
+    "5 - Main Notes/Dot Net/ASP.NET Core/Security and Identity/Identity/0 - Identity.md",
+    "5 - Main Notes/Dot Net/ASP.NET Core/Performance/0 - Performance.md",
+    "5 - Main Notes/Dot Net/ASP.NET Core/Performance/Caching/0 - Caching.md",
+    "5 - Main Notes/Dot Net/ASP.NET Core/Performance/Caching/Distributed Caching.md",
+    "5 - Main Notes/Dot Net/ASP.NET Core/Funtamentals/0 - Fundamentals.md",
+    "5 - Main Notes/Dot Net/ASP.NET Core/Blazor/0 - Blazor.md",
+    "5 - Main Notes/Dot Net/ASP.NET Core/Advanced/0 - Advanced.md",
+    "6 - Random Notes/0 - Random Notes.md",
+    "6 - Random Notes/Logging/0 - Logging.md",
     "6 - Random Notes/Logging/Patching up Serialization Errors.md",
-    "5 - Main Notes/Unit Of Work.md",
-    "5 - Main Notes/EF Core/Multi-tenancy (EF Core).md",
-    "5 - Main Notes/EF Core/EF Core in Blazor.md",
-    "5 - Main Notes/EF Core/EF Core.md",
-    "5 - Main Notes/EF Core/DBContextFactory.md",
-    "5 - Main Notes/EF Core/DbContext.md",
-    "5 - Main Notes/EF Core/The Model/The model.md",
-    "5 - Main Notes/EF Core/The Model/EF Migrations.md",
-    "5 - Main Notes/EF Core/Saving Data (CRUD)/Saving Data.md",
-    "5 - Main Notes/EF Core/Saving Data (CRUD)/Concurrency control.md",
-    "5 - Main Notes/EF Core/Querying Data/Querying Data.md",
-    "5 - Main Notes/EF Core/Querying Data/Change Tracking.md",
+    "5 - Main Notes/Dot Net/EF Core/Miscellaneous",
+    "5 - Main Notes/Dot Net/ASP.NET Core/Blazor",
+    "5 - Main Notes/Dot Net/ASP.NET Core/Security and Identity/Miscellaneous",
+    "5 - Main Notes/Dot Net/ASP.NET Core/Blazor/Blazor CSS",
+    "5 - Main Notes/Dot Net/ASP.NET Core/Performance/Caching",
+    "5 - Main Notes/Dot Net/ASP.NET Core/Performance",
+    "5 - Main Notes/Dot Net/ASP.NET Core/Funtamentals",
+    "5 - Main Notes/Dot Net/ASP.NET Core/Advanced",
+    "0 - Getting started with Obsidian/ExampleGraphUsage.jpg",
     "0 - Getting started with Obsidian",
     "3 - Indexes/Placeholder.txt.txt",
-    "2 - Source Material/Videos/Placeholder.txt.txt",
-    "2 - Source Material/Podcasts/Placeholder.txt.txt",
-    "2 - Source Material/Papers/Placeholder.txt.txt",
     "Untitled.canvas"
   ]
 }
