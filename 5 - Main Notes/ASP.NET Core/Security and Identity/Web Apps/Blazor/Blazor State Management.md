@@ -153,5 +153,6 @@ Prerendering might be useful for other pages that don't use `localStorage` or `s
 https://learn.microsoft.com/en-us/aspnet/core/blazor/state-management?view=aspnetcore-9.0&pivots=server#factor-out-state-preservation-to-a-common-provider
 
 ### In-memory state container service
+Source: https://learn.microsoft.com/en-us/aspnet/core/blazor/state-management?view=aspnetcore-9.0&pivots=server#in-memory-state-container-service
 
 ### [[Cascading values and parameters]]

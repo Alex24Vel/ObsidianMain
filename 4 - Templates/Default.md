@@ -1,7 +1,5 @@
 Source:
 
-{{date}} {{time}}
+Date: {{date}} {{time}}
 
 Tags: 
-
-# {{Title}}
