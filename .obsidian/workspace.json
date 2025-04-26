@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5 - Main Notes/Dot Net/EF Core/Coding Tutorials - EF Core/Part 7 - Models vs Entities.md",
+                "file": "5 - Main Notes/Dot Net/EF Core/Common Errors/0 - Common Errors.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -41,7 +41,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Part 7 - Models vs Entities"
+              "title": "0 - Common Errors"
             }
           }
         ],
@@ -58,13 +58,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5 - Main Notes/Dot Net/EF Core/Coding Tutorials - EF Core/Part 7 - Models vs Entities.md",
+                "file": "5 - Main Notes/Dot Net/EF Core/Common Errors/0 - Common Errors.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Part 7 - Models vs Entities"
+              "title": "Outline of 0 - Common Errors"
             }
           }
         ]
@@ -233,13 +233,19 @@
   },
   "active": "63cf0284d54935fd",
   "lastOpenFiles": [
-    "5 - Main Notes/Dot Net/EF Core/Coding Tutorials - EF Core/Part 6 - Code First Migration.md",
-    "5 - Main Notes/Dot Net/EF Core/Coding Tutorials - EF Core/Part 7 - Models vs Entities.md",
+    "5 - Main Notes/Dot Net/EF Core/0 - EF Core.md",
+    "5 - Main Notes/Dot Net/EF Core/Common Errors/0 - Common Errors.md",
+    "5 - Main Notes/Dot Net/EF Core/Coding Tutorials - EF Core/Part 11 - Relationships.md",
+    "5 - Main Notes/Dot Net/EF Core/Common Errors",
+    "5 - Main Notes/Dot Net/EF Core/Coding Tutorials - EF Core/Part 10 - Dynamic Mapping.md",
     "5 - Main Notes/Dot Net/EF Core/Coding Tutorials - EF Core/0 - Coding Tutorials - EF Core.md",
+    "5 - Main Notes/Dot Net/EF Core/Coding Tutorials - EF Core/Part 9 - The Fluent API.md",
+    "5 - Main Notes/Dot Net/EF Core/Coding Tutorials - EF Core/Part 8 - Attribute-Based Configuration.md",
+    "5 - Main Notes/Dot Net/EF Core/Coding Tutorials - EF Core/Part 7 - Models vs Entities.md",
+    "5 - Main Notes/Dot Net/EF Core/Coding Tutorials - EF Core/Part 6 - Code First Migration.md",
     "5 - Main Notes/Dot Net/EF Core/Coding Tutorials - EF Core/Part 5 - Configuration.md",
     "5 - Main Notes/Dot Net/EF Core/Coding Tutorials - EF Core/Part 4 - Eager vs Lazy Loading.md",
     "5 - Main Notes/Dot Net/ASP.NET Core/Funtamentals/Dependency Injection.md",
-    "5 - Main Notes/Dot Net/EF Core/Coding Tutorials - EF Core/Part 11 - Relationships.md",
     "5 - Main Notes/Dot Net/EF Core/Coding Tutorials - EF Core/Part 12 - Inheritance.md",
     "5 - Main Notes/Dot Net/EF Core/Coding Tutorials - EF Core/Part 2 - Code First From DB.md",
     "5 - Main Notes/Dot Net/EF Core/Coding Tutorials - EF Core/Part 1 - Code First Generation.md",
@@ -247,12 +253,10 @@
     "5 - Main Notes/Dot Net/EF Core/Coding Tutorials - EF Core/Part 12 - Inheritance ERD.png",
     "5 - Main Notes/Dot Net/EF Core/Coding Tutorials - EF Core/Errors encountered/MySqlException (0x80004005) Host 'x' is not allowed to connect to this MySQL server.md",
     "5 - Main Notes/Dot Net/EF Core/Coding Tutorials - EF Core/Errors encountered",
-    "5 - Main Notes/Dot Net/EF Core/Coding Tutorials - EF Core/Part 10 - Dynamic Mapping.md",
     "6 - Random Notes/Why not Linq2Db with Identity.md",
     "6 - Random Notes/Logging/Patching up Serialization Errors.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
-    "5 - Main Notes/Dot Net/EF Core/0 - EF Core.md",
     "5 - Main Notes/Dot Net/EF Core/Coding Tutorials - EF Core",
     "5 - Main Notes/Dot Net/EF Core/Saving Data (CRUD)/Concurrency control.md",
     "5 - Main Notes/Dot Net/EF Core/The Model/0 - The model.md",
@@ -262,9 +266,6 @@
     "5 - Main Notes/Dot Net/ASP.NET Core/Security and Identity/Miscellaneous/Razor Pages authorization conventions.md",
     "5 - Main Notes/Dot Net/ASP.NET Core/Security and Identity/Real-time Apps/Authentication and authorization in ASP.NET Core SignalR.md",
     "5 - Main Notes/Dot Net/EF Core/Miscellaneous/Multi-tenancy (EF Core).md",
-    "5 - Main Notes/Dot Net/ASP.NET Core/Performance/Caching/In-memory Cache.md",
-    "5 - Main Notes/Dot Net/ASP.NET Core/Security and Identity/Interfaces/IAuthorizationRequirement.md",
-    "5 - Main Notes/Dot Net/EF Core/Miscellaneous/EF Core in Blazor.md",
     "5 - Main Notes/Dot Net",
     "5 - Main Notes/Dot Net/EF Core/Miscellaneous",
     "5 - Main Notes/Dot Net/ASP.NET Core/Blazor",
@@ -272,7 +273,6 @@
     "5 - Main Notes/Dot Net/ASP.NET Core/Blazor/Blazor CSS",
     "5 - Main Notes/Dot Net/ASP.NET Core/Performance/Caching",
     "5 - Main Notes/Dot Net/ASP.NET Core/Performance",
-    "5 - Main Notes/Dot Net/ASP.NET Core/Funtamentals",
     "0 - Getting started with Obsidian/ExampleGraphUsage.jpg"
   ]
 }
