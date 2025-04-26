@@ -8,7 +8,7 @@ Tags: #index
 
 ### [[Part 1 - Code First Generation]]
 ### [[Part 2 - Code First From DB]]
-### [[Part 3 - Entity Framework 6]]
+### Part 3 - Entity Framework 6 - skipped
 ### [[Part 4 - Eager vs Lazy Loading]]
 ### [[Part 5 - Configuration]]
 ### [[Part 6 - Code First Migration]]
