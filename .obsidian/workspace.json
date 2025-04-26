@@ -6,7 +6,7 @@
       {
         "id": "6e5323dea7d9214d",
         "type": "tabs",
-        "dimension": 74.14266117969822,
+        "dimension": 76.02873938602221,
         "children": [
           {
             "id": "5384a7e5d2518b22",
@@ -21,14 +21,14 @@
             }
           },
           {
-            "id": "916070bb25852925",
+            "id": "5b8c73a7f1769cca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5 - Main Notes/Dot Net/EF Core/Coding Tutorials - EF Core/Part 12 - Inheritance.md",
+                "file": "5 - Main Notes/Dot Net/EF Core/Coding Tutorials - EF Core/0 - Coding Tutorials - EF Core.md",
                 "mode": "source",
-                "source": true,
+                "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -41,7 +41,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Part 12 - Inheritance"
+              "title": "0 - Coding Tutorials - EF Core"
             }
           }
         ],
@@ -50,7 +50,7 @@
       {
         "id": "a40be3690e096e77",
         "type": "tabs",
-        "dimension": 25.857338820301784,
+        "dimension": 23.971260613977794,
         "children": [
           {
             "id": "a07f8475f2a5e4b0",
@@ -58,13 +58,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5 - Main Notes/Dot Net/EF Core/Coding Tutorials - EF Core/Part 12 - Inheritance.md",
+                "file": "5 - Main Notes/Dot Net/EF Core/Coding Tutorials - EF Core/0 - Coding Tutorials - EF Core.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Part 12 - Inheritance"
+              "title": "Outline of 0 - Coding Tutorials - EF Core"
             }
           }
         ]
@@ -231,15 +231,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "916070bb25852925",
+  "active": "5b8c73a7f1769cca",
   "lastOpenFiles": [
-    "5 - Main Notes/Dot Net/EF Core/Coding Tutorials - EF Core/Part 12 - Inheritance - ERD.png",
+    "5 - Main Notes/Dot Net/EF Core/Coding Tutorials - EF Core/Part 1 - Code First Generation.md",
+    "5 - Main Notes/Dot Net/EF Core/Coding Tutorials - EF Core/0 - Coding Tutorials - EF Core.md",
+    "5 - Main Notes/Dot Net/EF Core/Coding Tutorials - EF Core/Errors encountered/MySqlException (0x80004005) Host 'x' is not allowed to connect to this MySQL server.md",
+    "5 - Main Notes/Dot Net/EF Core/Coding Tutorials - EF Core/Part 11 - Relationships.md",
+    "5 - Main Notes/Dot Net/EF Core/Coding Tutorials - EF Core/Errors encountered",
+    "5 - Main Notes/Dot Net/EF Core/Coding Tutorials - EF Core/Part 12 - Inheritance.md",
+    "5 - Main Notes/Dot Net/EF Core/Coding Tutorials - EF Core/Part 2 - Code First From DB.md",
+    "5 - Main Notes/Dot Net/EF Core/Coding Tutorials - EF Core/Part 10 - Dynamic Mapping.md",
+    "5 - Main Notes/Dot Net/EF Core/Coding Tutorials - EF Core/Part 11 - Relationships ERD.png",
+    "5 - Main Notes/Dot Net/EF Core/Coding Tutorials - EF Core/Part 12 - Inheritance ERD.png",
     "6 - Random Notes/Why not Linq2Db with Identity.md",
     "6 - Random Notes/Logging/Patching up Serialization Errors.md",
-    "5 - Main Notes/Dot Net/EF Core/Coding Tutorials - EF Core/Part 12 - Inheritance.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
-    "5 - Main Notes/Dot Net/EF Core/Coding Tutorials - EF Core/0 - Coding Tutorials - EF Core.md",
     "5 - Main Notes/Dot Net/EF Core/0 - EF Core.md",
     "5 - Main Notes/Dot Net/EF Core/Coding Tutorials - EF Core",
     "5 - Main Notes/Dot Net/EF Core/Saving Data (CRUD)/Concurrency control.md",
@@ -258,10 +265,6 @@
     "5 - Main Notes/Dot Net/EF Core/Miscellaneous/DBContextFactory.md",
     "5 - Main Notes/Dot Net/EF Core/Miscellaneous/DbContext.md",
     "5 - Main Notes/Dot Net/ASP.NET Core/Blazor/Cascading values and parameters.md",
-    "5 - Main Notes/Dot Net/ASP.NET Core/Blazor/Blazor State Management.md",
-    "5 - Main Notes/Dot Net/ASP.NET Core/Security and Identity/Web Apps/Blazor/Blazor Security and Identity Overview.md",
-    "5 - Main Notes/Dot Net/ASP.NET Core/Security and Identity/Web Apps/Blazor/Blazor Identity UI (Individual Accounts).md",
-    "5 - Main Notes/Dot Net/ASP.NET Core/Blazor/Blazor CSS/Blazor Css.md",
     "5 - Main Notes/Dot Net",
     "5 - Main Notes/Dot Net/EF Core/Miscellaneous",
     "5 - Main Notes/Dot Net/ASP.NET Core/Blazor",
@@ -270,7 +273,6 @@
     "5 - Main Notes/Dot Net/ASP.NET Core/Performance/Caching",
     "5 - Main Notes/Dot Net/ASP.NET Core/Performance",
     "5 - Main Notes/Dot Net/ASP.NET Core/Funtamentals",
-    "5 - Main Notes/Dot Net/ASP.NET Core/Advanced",
     "0 - Getting started with Obsidian/ExampleGraphUsage.jpg"
   ]
 }

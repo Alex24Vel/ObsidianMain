@@ -1,4 +1,6 @@
-Source: https://youtu.be/eHT6G912po0?list=PLQB-TSatJvw4T7mQneItRgsemyjMMYRNk
+Sources:
+- Tutorials on YouTube: [Here](https://youtu.be/eHT6G912po0?list=PLQB-TSatJvw4T7mQneItRgsemyjMMYRNk)
+- Repo on GitHub (currently is private): [Here](https://github.com/Alex24Vel/YTCodingTutorialsEFCore)
 
 Date: 26.04.2025 09:37
 

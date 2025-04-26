@@ -2,7 +2,7 @@ Source: https://youtu.be/0ndu7Zhc84Q?list=PLQB-TSatJvw4T7mQneItRgsemyjMMYRNk
 
 Date: 26.04.2025 09:40
 
-![[Part 12 - Inheritance - ERD.png]]
+![[Part 12 - Inheritance ERD.png]]
 
 ## Models 
 ```C#
@@ -73,7 +73,7 @@ public class PetsContext
 **Tables created**: **Owners**(Id), **Pets**(Name, Discriminator (Dog/Cat), OwnerId, Lives, FavoriteBone)
 
 ## DbContext Class: CTI
-**CTI - Class Table Inheritance (Table per Type)** - 
+**CTI - Class Table Inheritance (Table per Type)** - follows [[Open-Closed]] principle. Easier to modify, but may be less efficient that TPH.
 
 ```C#
 public class PetsContext 
@@ -93,3 +93,5 @@ public class PetsContext
 ```
 **Tables produced**: **Owners**(Id), **Pets**(Id, Name, OwnerId), **Dogs**(Id, FavoriteBone), **Cats** (Id, Lives)
 
+## Table Per Concrete Type (CTI* - Concrete Table Inheritance)
+Tables:  **Owners**(Id), **Dogs**(Id, Name, FavoriteBone, OwnerId), **Cats** (Id, Name, Lives, OwnerId)
