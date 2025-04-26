@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "63cf0284d54935fd",
+            "id": "0592fd0997dbf692",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5 - Main Notes/Dot Net/EF Core/Common Errors/0 - Common Errors.md",
+                "file": "5 - Main Notes/Dot Net/EF Core/Coding Tutorials - EF Core/Part 11 - Relationships.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -41,7 +41,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "0 - Common Errors"
+              "title": "Part 11 - Relationships"
             }
           }
         ],
@@ -58,13 +58,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5 - Main Notes/Dot Net/EF Core/Common Errors/0 - Common Errors.md",
+                "file": "5 - Main Notes/Dot Net/EF Core/Coding Tutorials - EF Core/Part 11 - Relationships.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 0 - Common Errors"
+              "title": "Outline of Part 11 - Relationships"
             }
           }
         ]
@@ -231,11 +231,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "63cf0284d54935fd",
+  "active": "0592fd0997dbf692",
   "lastOpenFiles": [
-    "5 - Main Notes/Dot Net/EF Core/0 - EF Core.md",
-    "5 - Main Notes/Dot Net/EF Core/Common Errors/0 - Common Errors.md",
+    "5 - Main Notes/Dot Net/EF Core/Common Errors/Unable to connect to web server 'https'.md",
     "5 - Main Notes/Dot Net/EF Core/Coding Tutorials - EF Core/Part 11 - Relationships.md",
+    "5 - Main Notes/Unable to connect to web server 'https'.md",
+    "5 - Main Notes/Dot Net/EF Core/Common Errors/0 - Common Errors.md",
+    "5 - Main Notes/Dot Net/EF Core/Coding Tutorials - EF Core/Part 11 - Relationships ERD.png",
+    "5 - Main Notes/Dot Net/EF Core/Coding Tutorials - EF Core/Part 12 - Inheritance.md",
+    "5 - Main Notes/Dot Net/EF Core/0 - EF Core.md",
     "5 - Main Notes/Dot Net/EF Core/Common Errors",
     "5 - Main Notes/Dot Net/EF Core/Coding Tutorials - EF Core/Part 10 - Dynamic Mapping.md",
     "5 - Main Notes/Dot Net/EF Core/Coding Tutorials - EF Core/0 - Coding Tutorials - EF Core.md",
@@ -246,10 +250,8 @@
     "5 - Main Notes/Dot Net/EF Core/Coding Tutorials - EF Core/Part 5 - Configuration.md",
     "5 - Main Notes/Dot Net/EF Core/Coding Tutorials - EF Core/Part 4 - Eager vs Lazy Loading.md",
     "5 - Main Notes/Dot Net/ASP.NET Core/Funtamentals/Dependency Injection.md",
-    "5 - Main Notes/Dot Net/EF Core/Coding Tutorials - EF Core/Part 12 - Inheritance.md",
     "5 - Main Notes/Dot Net/EF Core/Coding Tutorials - EF Core/Part 2 - Code First From DB.md",
     "5 - Main Notes/Dot Net/EF Core/Coding Tutorials - EF Core/Part 1 - Code First Generation.md",
-    "5 - Main Notes/Dot Net/EF Core/Coding Tutorials - EF Core/Part 11 - Relationships ERD.png",
     "5 - Main Notes/Dot Net/EF Core/Coding Tutorials - EF Core/Part 12 - Inheritance ERD.png",
     "5 - Main Notes/Dot Net/EF Core/Coding Tutorials - EF Core/Errors encountered/MySqlException (0x80004005) Host 'x' is not allowed to connect to this MySQL server.md",
     "5 - Main Notes/Dot Net/EF Core/Coding Tutorials - EF Core/Errors encountered",
@@ -264,8 +266,6 @@
     "5 - Main Notes/Dot Net/ASP.NET Core/Security and Identity/Identity/Identity model customization in ASP.NET Core.md",
     "5 - Main Notes/Dot Net/CSharp/Language Integrated Query (LINQ).md",
     "5 - Main Notes/Dot Net/ASP.NET Core/Security and Identity/Miscellaneous/Razor Pages authorization conventions.md",
-    "5 - Main Notes/Dot Net/ASP.NET Core/Security and Identity/Real-time Apps/Authentication and authorization in ASP.NET Core SignalR.md",
-    "5 - Main Notes/Dot Net/EF Core/Miscellaneous/Multi-tenancy (EF Core).md",
     "5 - Main Notes/Dot Net",
     "5 - Main Notes/Dot Net/EF Core/Miscellaneous",
     "5 - Main Notes/Dot Net/ASP.NET Core/Blazor",

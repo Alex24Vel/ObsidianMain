@@ -1,5 +1,7 @@
 Source: https://youtu.be/eHT6G912po0?list=PLQB-TSatJvw4T7mQneItRgsemyjMMYRNk
 
+Relevant: [[Unable to connect to web server 'https']]
+
 Date: 26.04.2025 10:13
 
 ![[5 - Main Notes/Dot Net/EF Core/Coding Tutorials - EF Core/Part 11 - Relationships ERD.png]]
