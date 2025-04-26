@@ -21,14 +21,14 @@
             }
           },
           {
-            "id": "5b8c73a7f1769cca",
+            "id": "63cf0284d54935fd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5 - Main Notes/Part 6 - Code First Migration.md",
+                "file": "5 - Main Notes/Dot Net/EF Core/Coding Tutorials - EF Core/Part 7 - Models vs Entities.md",
                 "mode": "source",
-                "source": false,
+                "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -41,7 +41,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Part 6 - Code First Migration"
+              "title": "Part 7 - Models vs Entities"
             }
           }
         ],
@@ -58,13 +58,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5 - Main Notes/Part 6 - Code First Migration.md",
+                "file": "5 - Main Notes/Dot Net/EF Core/Coding Tutorials - EF Core/Part 7 - Models vs Entities.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Part 6 - Code First Migration"
+              "title": "Outline of Part 7 - Models vs Entities"
             }
           }
         ]
@@ -231,11 +231,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5b8c73a7f1769cca",
+  "active": "63cf0284d54935fd",
   "lastOpenFiles": [
+    "5 - Main Notes/Dot Net/EF Core/Coding Tutorials - EF Core/Part 6 - Code First Migration.md",
+    "5 - Main Notes/Dot Net/EF Core/Coding Tutorials - EF Core/Part 7 - Models vs Entities.md",
     "5 - Main Notes/Dot Net/EF Core/Coding Tutorials - EF Core/0 - Coding Tutorials - EF Core.md",
     "5 - Main Notes/Dot Net/EF Core/Coding Tutorials - EF Core/Part 5 - Configuration.md",
-    "5 - Main Notes/Part 6 - Code First Migration.md",
     "5 - Main Notes/Dot Net/EF Core/Coding Tutorials - EF Core/Part 4 - Eager vs Lazy Loading.md",
     "5 - Main Notes/Dot Net/ASP.NET Core/Funtamentals/Dependency Injection.md",
     "5 - Main Notes/Dot Net/EF Core/Coding Tutorials - EF Core/Part 11 - Relationships.md",
@@ -264,7 +265,6 @@
     "5 - Main Notes/Dot Net/ASP.NET Core/Performance/Caching/In-memory Cache.md",
     "5 - Main Notes/Dot Net/ASP.NET Core/Security and Identity/Interfaces/IAuthorizationRequirement.md",
     "5 - Main Notes/Dot Net/EF Core/Miscellaneous/EF Core in Blazor.md",
-    "5 - Main Notes/Dot Net/ASP.NET Core/Performance/Caching/Distributed Caching.md",
     "5 - Main Notes/Dot Net",
     "5 - Main Notes/Dot Net/EF Core/Miscellaneous",
     "5 - Main Notes/Dot Net/ASP.NET Core/Blazor",
