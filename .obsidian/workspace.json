@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5 - Main Notes/Dot Net/EF Core/Coding Tutorials - EF Core/0 - Coding Tutorials - EF Core.md",
+                "file": "5 - Main Notes/Part 6 - Code First Migration.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -41,35 +41,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "0 - Coding Tutorials - EF Core"
-            }
-          },
-          {
-            "id": "f77497d585ac57df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5 - Main Notes/Dot Net/EF Core/Coding Tutorials - EF Core/Part 4 - Eager vs Lazy Loading.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Part 4 - Eager vs Lazy Loading"
+              "title": "Part 6 - Code First Migration"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "a40be3690e096e77",
@@ -82,13 +58,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5 - Main Notes/Dot Net/EF Core/Coding Tutorials - EF Core/Part 4 - Eager vs Lazy Loading.md",
+                "file": "5 - Main Notes/Part 6 - Code First Migration.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Part 4 - Eager vs Lazy Loading"
+              "title": "Outline of Part 6 - Code First Migration"
             }
           }
         ]
@@ -255,13 +231,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f77497d585ac57df",
+  "active": "5b8c73a7f1769cca",
   "lastOpenFiles": [
     "5 - Main Notes/Dot Net/EF Core/Coding Tutorials - EF Core/0 - Coding Tutorials - EF Core.md",
+    "5 - Main Notes/Dot Net/EF Core/Coding Tutorials - EF Core/Part 5 - Configuration.md",
+    "5 - Main Notes/Part 6 - Code First Migration.md",
+    "5 - Main Notes/Dot Net/EF Core/Coding Tutorials - EF Core/Part 4 - Eager vs Lazy Loading.md",
     "5 - Main Notes/Dot Net/ASP.NET Core/Funtamentals/Dependency Injection.md",
     "5 - Main Notes/Dot Net/EF Core/Coding Tutorials - EF Core/Part 11 - Relationships.md",
     "5 - Main Notes/Dot Net/EF Core/Coding Tutorials - EF Core/Part 12 - Inheritance.md",
-    "5 - Main Notes/Dot Net/EF Core/Coding Tutorials - EF Core/Part 4 - Eager vs Lazy Loading.md",
     "5 - Main Notes/Dot Net/EF Core/Coding Tutorials - EF Core/Part 2 - Code First From DB.md",
     "5 - Main Notes/Dot Net/EF Core/Coding Tutorials - EF Core/Part 1 - Code First Generation.md",
     "5 - Main Notes/Dot Net/EF Core/Coding Tutorials - EF Core/Part 11 - Relationships ERD.png",
@@ -287,7 +265,6 @@
     "5 - Main Notes/Dot Net/ASP.NET Core/Security and Identity/Interfaces/IAuthorizationRequirement.md",
     "5 - Main Notes/Dot Net/EF Core/Miscellaneous/EF Core in Blazor.md",
     "5 - Main Notes/Dot Net/ASP.NET Core/Performance/Caching/Distributed Caching.md",
-    "5 - Main Notes/Dot Net/EF Core/Miscellaneous/DBContextFactory.md",
     "5 - Main Notes/Dot Net",
     "5 - Main Notes/Dot Net/EF Core/Miscellaneous",
     "5 - Main Notes/Dot Net/ASP.NET Core/Blazor",
