@@ -31,9 +31,16 @@ public class Course
     
     // Many-To-Many
     public ICollection<Student> Students { get; set; }
-    // Many-to-One
-    public Teacher Author { get; set; }
-    public Teacher Editor { get; set; }
+    
+    // Foreign key for Author
+    public int AuthorId { get; set; } 
+    [InverseProperty("CoursesWritten")]
+    public Teacher Author { get; set; }
+    
+    // Foreign key for Editor
+    public int EditorId { get; set; }
+    [InverseProperty("CoursesEditted")]
+    public Teacher Editor { get; set; }
 }
 public class Classroom
 {
@@ -159,3 +166,5 @@ class Program
     }
 }
 ```
+
+System.InvalidOperationException: 'Unable to determine the relationship represented by navigation 'Course.Author' of type 'Teacher'. Either manually configure the relationship, or ignore this property using the '[NotMapped]' attribute or by using 'EntityTypeBuilder.Ignore' in 'OnModelCreating'.'
