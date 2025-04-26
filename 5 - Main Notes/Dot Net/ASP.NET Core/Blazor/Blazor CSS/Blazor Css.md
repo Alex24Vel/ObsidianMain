@@ -1,6 +1,6 @@
 Date: 24.04.2025
 
-Tags: #blazor
+Tags:
 
 # Styling Blazor Applications: A Guide
 

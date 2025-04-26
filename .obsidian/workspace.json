@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "b72d17b2260c24e0",
+            "id": "916070bb25852925",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5 - Main Notes/Dot Net/ASP.NET Core/Security and Identity/Miscellaneous/Razor Pages authorization conventions.md",
+                "file": "5 - Main Notes/Dot Net/EF Core/Coding Tutorials - EF Core/Part 12 - Inheritance.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -41,58 +41,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Razor Pages authorization conventions"
-            }
-          },
-          {
-            "id": "932d1fb6357fa416",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5 - Main Notes/Dot Net/ASP.NET Core/0 - ASP.NET Core.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "0 - ASP.NET Core"
-            }
-          },
-          {
-            "id": "a1f9fc8d44255641",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5 - Main Notes/Dot Net/EF Core/0 - EF Core.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "0 - EF Core"
+              "title": "Part 12 - Inheritance"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "a40be3690e096e77",
@@ -105,12 +58,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "5 - Main Notes/Dot Net/EF Core/Coding Tutorials - EF Core/Part 12 - Inheritance.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Part 12 - Inheritance"
             }
           }
         ]
@@ -277,34 +231,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "122e30ffe5266c17",
+  "active": "916070bb25852925",
   "lastOpenFiles": [
-    "5 - Main Notes/Dot Net",
+    "5 - Main Notes/Dot Net/EF Core/Coding Tutorials - EF Core/Part 12 - Inheritance - ERD.png",
+    "6 - Random Notes/Why not Linq2Db with Identity.md",
+    "6 - Random Notes/Logging/Patching up Serialization Errors.md",
+    "5 - Main Notes/Dot Net/EF Core/Coding Tutorials - EF Core/Part 12 - Inheritance.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "5 - Main Notes/Dot Net/EF Core/Coding Tutorials - EF Core/0 - Coding Tutorials - EF Core.md",
     "5 - Main Notes/Dot Net/EF Core/0 - EF Core.md",
+    "5 - Main Notes/Dot Net/EF Core/Coding Tutorials - EF Core",
+    "5 - Main Notes/Dot Net/EF Core/Saving Data (CRUD)/Concurrency control.md",
     "5 - Main Notes/Dot Net/EF Core/The Model/0 - The model.md",
     "5 - Main Notes/Dot Net/EF Core/Saving Data (CRUD)/0 - Saving Data.md",
-    "5 - Main Notes/Dot Net/EF Core/Querying Data/0 - Querying Data.md",
-    "5 - Main Notes/Dot Net/EF Core/Miscellaneous/0 - Miscellaneous.md",
+    "5 - Main Notes/Dot Net/ASP.NET Core/Security and Identity/Identity/Identity model customization in ASP.NET Core.md",
     "5 - Main Notes/Dot Net/CSharp/Language Integrated Query (LINQ).md",
-    "5 - Main Notes/Dot Net/CSharp/0 - CSharp.md",
-    "5 - Main Notes/Dot Net/ASP.NET Core/0 - ASP.NET Core.md",
-    "5 - Main Notes/Dot Net/ASP.NET Core/Security and Identity/0 - Security and Identity.md",
-    "5 - Main Notes/Dot Net/ASP.NET Core/Security and Identity/Web Apps/Authorization Filters.md",
-    "5 - Main Notes/Dot Net/ASP.NET Core/Security and Identity/Web Apps/Razor Pages/0 - Razor Pages.md",
-    "5 - Main Notes/Dot Net/ASP.NET Core/Security and Identity/Web Apps/Blazor/0 - Blazor Security.md",
-    "5 - Main Notes/Dot Net/ASP.NET Core/Security and Identity/Real-time Apps/0 - Real-time Apps.md",
-    "5 - Main Notes/Dot Net/ASP.NET Core/Security and Identity/Miscellaneous/0  - Miscellaneous.md",
-    "5 - Main Notes/Dot Net/ASP.NET Core/Security and Identity/Interfaces/0 - Interfaces.md",
-    "5 - Main Notes/Dot Net/ASP.NET Core/Security and Identity/Identity/0 - Identity.md",
-    "5 - Main Notes/Dot Net/ASP.NET Core/Performance/0 - Performance.md",
-    "5 - Main Notes/Dot Net/ASP.NET Core/Performance/Caching/0 - Caching.md",
+    "5 - Main Notes/Dot Net/ASP.NET Core/Security and Identity/Miscellaneous/Razor Pages authorization conventions.md",
+    "5 - Main Notes/Dot Net/ASP.NET Core/Security and Identity/Real-time Apps/Authentication and authorization in ASP.NET Core SignalR.md",
+    "5 - Main Notes/Dot Net/EF Core/Miscellaneous/Multi-tenancy (EF Core).md",
+    "5 - Main Notes/Dot Net/ASP.NET Core/Performance/Caching/In-memory Cache.md",
+    "5 - Main Notes/Dot Net/ASP.NET Core/Security and Identity/Interfaces/IAuthorizationRequirement.md",
+    "5 - Main Notes/Dot Net/EF Core/Miscellaneous/EF Core in Blazor.md",
     "5 - Main Notes/Dot Net/ASP.NET Core/Performance/Caching/Distributed Caching.md",
-    "5 - Main Notes/Dot Net/ASP.NET Core/Funtamentals/0 - Fundamentals.md",
-    "5 - Main Notes/Dot Net/ASP.NET Core/Blazor/0 - Blazor.md",
-    "5 - Main Notes/Dot Net/ASP.NET Core/Advanced/0 - Advanced.md",
-    "6 - Random Notes/0 - Random Notes.md",
-    "6 - Random Notes/Logging/0 - Logging.md",
-    "6 - Random Notes/Logging/Patching up Serialization Errors.md",
+    "5 - Main Notes/Dot Net/ASP.NET Core/Funtamentals/Dependency Injection.md",
+    "5 - Main Notes/Dot Net/EF Core/Miscellaneous/DBContextFactory.md",
+    "5 - Main Notes/Dot Net/EF Core/Miscellaneous/DbContext.md",
+    "5 - Main Notes/Dot Net/ASP.NET Core/Blazor/Cascading values and parameters.md",
+    "5 - Main Notes/Dot Net/ASP.NET Core/Blazor/Blazor State Management.md",
+    "5 - Main Notes/Dot Net/ASP.NET Core/Security and Identity/Web Apps/Blazor/Blazor Security and Identity Overview.md",
+    "5 - Main Notes/Dot Net/ASP.NET Core/Security and Identity/Web Apps/Blazor/Blazor Identity UI (Individual Accounts).md",
+    "5 - Main Notes/Dot Net/ASP.NET Core/Blazor/Blazor CSS/Blazor Css.md",
+    "5 - Main Notes/Dot Net",
     "5 - Main Notes/Dot Net/EF Core/Miscellaneous",
     "5 - Main Notes/Dot Net/ASP.NET Core/Blazor",
     "5 - Main Notes/Dot Net/ASP.NET Core/Security and Identity/Miscellaneous",
@@ -313,9 +271,6 @@
     "5 - Main Notes/Dot Net/ASP.NET Core/Performance",
     "5 - Main Notes/Dot Net/ASP.NET Core/Funtamentals",
     "5 - Main Notes/Dot Net/ASP.NET Core/Advanced",
-    "0 - Getting started with Obsidian/ExampleGraphUsage.jpg",
-    "0 - Getting started with Obsidian",
-    "3 - Indexes/Placeholder.txt.txt",
-    "Untitled.canvas"
+    "0 - Getting started with Obsidian/ExampleGraphUsage.jpg"
   ]
 }

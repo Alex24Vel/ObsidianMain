@@ -1,5 +1,4 @@
-Tag: #wartungsapps
-
+Tag: 
 Source: https://learn.microsoft.com/en-us/aspnet/core/blazor/blazor-ef-core
 
 # Database access

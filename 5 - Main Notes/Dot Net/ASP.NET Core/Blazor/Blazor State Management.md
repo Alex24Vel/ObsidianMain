@@ -1,6 +1,6 @@
 Source: https://learn.microsoft.com/en-us/aspnet/core/blazor/state-management?view=aspnetcore-9.0&pivots=server
 
-Tags: #copypasted 
+Tags: 
 
 # Server
 
