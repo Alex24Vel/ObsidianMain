@@ -6,7 +6,6 @@
       {
         "id": "6e5323dea7d9214d",
         "type": "tabs",
-        "dimension": 76.02873938602221,
         "children": [
           {
             "id": "5384a7e5d2518b22",
@@ -21,14 +20,14 @@
             }
           },
           {
-            "id": "0592fd0997dbf692",
+            "id": "b6c4ef69b99c358e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5 - Main Notes/Dot Net/EF Core/Coding Tutorials - EF Core/Part 11 - Relationships.md",
-                "mode": "source",
-                "source": true,
+                "file": "5 - Main Notes/Dot Net/ASP.NET Core/Blazor/JS Interop/JavaScript Location.md",
+                "mode": "preview",
+                "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -41,33 +40,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Part 11 - Relationships"
+              "title": "JavaScript Location"
             }
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "a40be3690e096e77",
-        "type": "tabs",
-        "dimension": 23.971260613977794,
-        "children": [
-          {
-            "id": "a07f8475f2a5e4b0",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "5 - Main Notes/Dot Net/EF Core/Coding Tutorials - EF Core/Part 11 - Relationships.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of Part 11 - Relationships"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -124,7 +101,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 473.5
+    "width": 378.5
   },
   "right": {
     "id": "15f9a6da648d9f88",
@@ -231,48 +208,47 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0592fd0997dbf692",
+  "active": "b6c4ef69b99c358e",
   "lastOpenFiles": [
-    "5 - Main Notes/Dot Net/EF Core/Common Errors/Unable to connect to web server 'https'.md",
+    "5 - Main Notes/Dot Net/ASP.NET Core/Blazor/JS Interop/0 - JS Interop.md",
+    "5 - Main Notes/Dot Net/ASP.NET Core/Blazor/JS Interop/JavaScript Location.md",
+    "5 - Main Notes/Dot Net/ASP.NET Core/Blazor/JS Interop",
     "5 - Main Notes/Dot Net/EF Core/Coding Tutorials - EF Core/Part 11 - Relationships.md",
-    "5 - Main Notes/Unable to connect to web server 'https'.md",
-    "5 - Main Notes/Dot Net/EF Core/Common Errors/0 - Common Errors.md",
     "5 - Main Notes/Dot Net/EF Core/Coding Tutorials - EF Core/Part 11 - Relationships ERD.png",
-    "5 - Main Notes/Dot Net/EF Core/Coding Tutorials - EF Core/Part 12 - Inheritance.md",
-    "5 - Main Notes/Dot Net/EF Core/0 - EF Core.md",
-    "5 - Main Notes/Dot Net/EF Core/Common Errors",
-    "5 - Main Notes/Dot Net/EF Core/Coding Tutorials - EF Core/Part 10 - Dynamic Mapping.md",
-    "5 - Main Notes/Dot Net/EF Core/Coding Tutorials - EF Core/0 - Coding Tutorials - EF Core.md",
-    "5 - Main Notes/Dot Net/EF Core/Coding Tutorials - EF Core/Part 9 - The Fluent API.md",
-    "5 - Main Notes/Dot Net/EF Core/Coding Tutorials - EF Core/Part 8 - Attribute-Based Configuration.md",
-    "5 - Main Notes/Dot Net/EF Core/Coding Tutorials - EF Core/Part 7 - Models vs Entities.md",
-    "5 - Main Notes/Dot Net/EF Core/Coding Tutorials - EF Core/Part 6 - Code First Migration.md",
-    "5 - Main Notes/Dot Net/EF Core/Coding Tutorials - EF Core/Part 5 - Configuration.md",
-    "5 - Main Notes/Dot Net/EF Core/Coding Tutorials - EF Core/Part 4 - Eager vs Lazy Loading.md",
-    "5 - Main Notes/Dot Net/ASP.NET Core/Funtamentals/Dependency Injection.md",
-    "5 - Main Notes/Dot Net/EF Core/Coding Tutorials - EF Core/Part 2 - Code First From DB.md",
-    "5 - Main Notes/Dot Net/EF Core/Coding Tutorials - EF Core/Part 1 - Code First Generation.md",
-    "5 - Main Notes/Dot Net/EF Core/Coding Tutorials - EF Core/Part 12 - Inheritance ERD.png",
+    "5 - Main Notes/ASP.NET Core/Advanced/Background Service.md",
+    "6 - Random Notes/Logging/0 - Logging.md",
+    "6 - Random Notes/0 - Random Notes.md",
+    "5 - Main Notes/Dot Net/ASP.NET Core/Security and Identity/Web Apps/Razor Pages/Authorize filter attribute.md",
+    "5 - Main Notes/Dot Net/ASP.NET Core/Security and Identity/Web Apps/Razor Pages/0 - Razor Pages.md",
+    "5 - Main Notes/Dot Net/ASP.NET Core/Security and Identity/Web Apps/Blazor/Custom Authentication State Provider.md",
+    "5 - Main Notes/Dot Net/ASP.NET Core/Security and Identity/Web Apps/Blazor/Blazor Security and Identity Overview.md",
+    "5 - Main Notes/Dot Net/ASP.NET Core/Security and Identity/Web Apps/Blazor/Blazor Identity UI (Individual Accounts).md",
+    "5 - Main Notes/Dot Net/ASP.NET Core/Security and Identity/Web Apps/Blazor/0 - Blazor Security.md",
     "5 - Main Notes/Dot Net/EF Core/Coding Tutorials - EF Core/Errors encountered/MySqlException (0x80004005) Host 'x' is not allowed to connect to this MySQL server.md",
-    "5 - Main Notes/Dot Net/EF Core/Coding Tutorials - EF Core/Errors encountered",
-    "6 - Random Notes/Why not Linq2Db with Identity.md",
-    "6 - Random Notes/Logging/Patching up Serialization Errors.md",
-    "Untitled 1.canvas",
-    "Untitled.canvas",
-    "5 - Main Notes/Dot Net/EF Core/Coding Tutorials - EF Core",
-    "5 - Main Notes/Dot Net/EF Core/Saving Data (CRUD)/Concurrency control.md",
-    "5 - Main Notes/Dot Net/EF Core/The Model/0 - The model.md",
-    "5 - Main Notes/Dot Net/EF Core/Saving Data (CRUD)/0 - Saving Data.md",
-    "5 - Main Notes/Dot Net/ASP.NET Core/Security and Identity/Identity/Identity model customization in ASP.NET Core.md",
-    "5 - Main Notes/Dot Net/CSharp/Language Integrated Query (LINQ).md",
+    "5 - Main Notes/Dot Net/ASP.NET Core/Security and Identity/Real-time Apps/Authentication and authorization in ASP.NET Core SignalR.md",
+    "5 - Main Notes/Dot Net/ASP.NET Core/Security and Identity/Real-time Apps/0 - Real-time Apps.md",
+    "5 - Main Notes/Dot Net/ASP.NET Core/Security and Identity/Web Apps/Razor Pages",
+    "5 - Main Notes/Dot Net/ASP.NET Core/Security and Identity/Web Apps/Blazor",
+    "5 - Main Notes/Dot Net/ASP.NET Core/Security and Identity/Web Apps/Authorization Filters.md",
+    "5 - Main Notes/Dot Net/ASP.NET Core/Security and Identity/Miscellaneous/Introduction to Identity on ASP.NET Core.md",
+    "5 - Main Notes/Dot Net/ASP.NET Core/Security and Identity/Miscellaneous/Safe storage of app secrets in development in ASP.NET Core.md",
+    "5 - Main Notes/Dot Net/ASP.NET Core/Security and Identity/Web Apps/0 - Web Apps.md",
     "5 - Main Notes/Dot Net/ASP.NET Core/Security and Identity/Miscellaneous/Razor Pages authorization conventions.md",
-    "5 - Main Notes/Dot Net",
-    "5 - Main Notes/Dot Net/EF Core/Miscellaneous",
-    "5 - Main Notes/Dot Net/ASP.NET Core/Blazor",
+    "5 - Main Notes/Dot Net/ASP.NET Core/Security and Identity/Miscellaneous/Cookie Authentication without ASP.NET Core Identity.md",
+    "5 - Main Notes/Dot Net/ASP.NET Core/Security and Identity/Miscellaneous/ASP.NET Core server-side and Blazor Web App additional security scenarios.md",
+    "5 - Main Notes/Dot Net/ASP.NET Core/Security and Identity/Miscellaneous/0  - Miscellaneous.md",
+    "5 - Main Notes/Dot Net/ASP.NET Core/Security and Identity/Interfaces/0 - Interfaces.md",
+    "5 - Main Notes/Dot Net/ASP.NET Core/Security and Identity/Interfaces/IAuthorizationRequirement.md",
+    "5 - Main Notes/Dot Net/ASP.NET Core/Security and Identity/Identity/Multi-factor authentication in ASP.NET Core.md",
+    "5 - Main Notes/Dot Net/EF Core/Coding Tutorials - EF Core/Part 12 - Inheritance ERD.png",
+    "5 - Main Notes/Dot Net/EF Core/Coding Tutorials - EF Core/Errors encountered",
+    "5 - Main Notes/Dot Net/ASP.NET Core/Security and Identity/Real-time Apps",
+    "5 - Main Notes/Dot Net/ASP.NET Core/Security and Identity/Web Apps",
     "5 - Main Notes/Dot Net/ASP.NET Core/Security and Identity/Miscellaneous",
-    "5 - Main Notes/Dot Net/ASP.NET Core/Blazor/Blazor CSS",
+    "5 - Main Notes/Dot Net/ASP.NET Core/Security and Identity/Interfaces",
+    "5 - Main Notes/Dot Net/ASP.NET Core/Security and Identity/Identity",
     "5 - Main Notes/Dot Net/ASP.NET Core/Performance/Caching",
-    "5 - Main Notes/Dot Net/ASP.NET Core/Performance",
-    "0 - Getting started with Obsidian/ExampleGraphUsage.jpg"
+    "0 - Getting started with Obsidian/ExampleGraphUsage.jpg",
+    "Untitled.canvas"
   ]
 }
