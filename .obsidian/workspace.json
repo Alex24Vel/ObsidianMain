@@ -6,7 +6,7 @@
       {
         "id": "6e5323dea7d9214d",
         "type": "tabs",
-        "dimension": 74.14266117969822,
+        "dimension": 76.02873938602221,
         "children": [
           {
             "id": "5384a7e5d2518b22",
@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "47649a0892b87c95",
+            "id": "0592fd0997dbf692",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5 - Main Notes/EF Core/Multi-tenancy (EF Core).md",
+                "file": "5 - Main Notes/Dot Net/EF Core/Coding Tutorials - EF Core/Part 11 - Relationships.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -41,112 +41,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Multi-tenancy (EF Core)"
-            }
-          },
-          {
-            "id": "2d5214c5e3f364cd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5 - Main Notes/ASP.NET Core/Advanced/0 - Advanced.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "0 - Advanced"
-            }
-          },
-          {
-            "id": "ed401bb144a2fdec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5 - Main Notes/ASP.NET Core/Performance/Caching/Caching.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Caching"
-            }
-          },
-          {
-            "id": "492aec43bc63139d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5 - Main Notes/ASP.NET Core/Security and Identity/Web Apps/Blazor/Blazor Security and Identity Overview.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Blazor Security and Identity Overview"
-            }
-          },
-          {
-            "id": "3b9495b60479e1c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5 - Main Notes/ASP.NET Core/Advanced/Background Service.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Background Service"
+              "title": "Part 11 - Relationships"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       },
       {
         "id": "a40be3690e096e77",
         "type": "tabs",
-        "dimension": 25.857338820301784,
+        "dimension": 23.971260613977794,
         "children": [
           {
             "id": "a07f8475f2a5e4b0",
@@ -154,13 +58,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5 - Main Notes/ASP.NET Core/Advanced/Background Service.md",
+                "file": "5 - Main Notes/Dot Net/EF Core/Coding Tutorials - EF Core/Part 11 - Relationships.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Background Service"
+              "title": "Outline of Part 11 - Relationships"
             }
           }
         ]
@@ -220,7 +124,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 378.5
+    "width": 473.5
   },
   "right": {
     "id": "15f9a6da648d9f88",
@@ -327,45 +231,48 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "122e30ffe5266c17",
+  "active": "0592fd0997dbf692",
   "lastOpenFiles": [
-    "5 - Main Notes/ASP.NET Core/Advanced/Background Service.md",
-    "5 - Main Notes/EF Core/Multi-tenancy (EF Core).md",
-    "5 - Main Notes/ASP.NET Core/Security and Identity/Web Apps/Blazor/Blazor Security and Identity Overview.md",
-    "5 - Main Notes/ASP.NET Core/Advanced/0 - Advanced.md",
-    "5 - Main Notes/ASP.NET Core/Performance/Caching/Caching.md",
-    "5 - Main Notes/ASP.NET Core/Funtamentals/Fundamentals.md",
-    "5 - Main Notes/ASP.NET Core/Funtamentals/Dependency Injection.md",
-    "5 - Main Notes/ASP.NET Core/Asp.Net Core.md",
-    "5 - Main Notes/ASP.NET Core/Performance/Caching/In-memory Cache.md",
-    "5 - Main Notes/ASP.NET Core/Advanced",
-    "5 - Main Notes/ASP.NET Core/Funtamentals",
-    "5 - Main Notes/ASP.NET Core/Performance/Caching/Distributed Caching.md",
-    "5 - Main Notes/ASP.NET Core/Performance/Performance.md",
-    "5 - Main Notes/ASP.NET Core/Performance/Caching",
-    "4 - Templates/Default.md",
-    "5 - Main Notes/ASP.NET Core/Security and Identity/Web Apps/Blazor/Blazor State Management.md",
-    "5 - Main Notes/ASP.NET Core/Performance",
-    "5 - Main Notes/Blazor CSS/Blazor Css.md",
-    "0 - Getting started with Obsidian/README.md",
-    "5 - Main Notes/Blazor CSS",
-    "0 - Getting started with Obsidian/ExampleGraphUsage.jpg",
-    "0 - Getting started with Obsidian/Tags.md",
-    "6 - Random Notes/Cookies vs JWT.md",
+    "5 - Main Notes/Dot Net/EF Core/Common Errors/Unable to connect to web server 'https'.md",
+    "5 - Main Notes/Dot Net/EF Core/Coding Tutorials - EF Core/Part 11 - Relationships.md",
+    "5 - Main Notes/Unable to connect to web server 'https'.md",
+    "5 - Main Notes/Dot Net/EF Core/Common Errors/0 - Common Errors.md",
+    "5 - Main Notes/Dot Net/EF Core/Coding Tutorials - EF Core/Part 11 - Relationships ERD.png",
+    "5 - Main Notes/Dot Net/EF Core/Coding Tutorials - EF Core/Part 12 - Inheritance.md",
+    "5 - Main Notes/Dot Net/EF Core/0 - EF Core.md",
+    "5 - Main Notes/Dot Net/EF Core/Common Errors",
+    "5 - Main Notes/Dot Net/EF Core/Coding Tutorials - EF Core/Part 10 - Dynamic Mapping.md",
+    "5 - Main Notes/Dot Net/EF Core/Coding Tutorials - EF Core/0 - Coding Tutorials - EF Core.md",
+    "5 - Main Notes/Dot Net/EF Core/Coding Tutorials - EF Core/Part 9 - The Fluent API.md",
+    "5 - Main Notes/Dot Net/EF Core/Coding Tutorials - EF Core/Part 8 - Attribute-Based Configuration.md",
+    "5 - Main Notes/Dot Net/EF Core/Coding Tutorials - EF Core/Part 7 - Models vs Entities.md",
+    "5 - Main Notes/Dot Net/EF Core/Coding Tutorials - EF Core/Part 6 - Code First Migration.md",
+    "5 - Main Notes/Dot Net/EF Core/Coding Tutorials - EF Core/Part 5 - Configuration.md",
+    "5 - Main Notes/Dot Net/EF Core/Coding Tutorials - EF Core/Part 4 - Eager vs Lazy Loading.md",
+    "5 - Main Notes/Dot Net/ASP.NET Core/Funtamentals/Dependency Injection.md",
+    "5 - Main Notes/Dot Net/EF Core/Coding Tutorials - EF Core/Part 2 - Code First From DB.md",
+    "5 - Main Notes/Dot Net/EF Core/Coding Tutorials - EF Core/Part 1 - Code First Generation.md",
+    "5 - Main Notes/Dot Net/EF Core/Coding Tutorials - EF Core/Part 12 - Inheritance ERD.png",
+    "5 - Main Notes/Dot Net/EF Core/Coding Tutorials - EF Core/Errors encountered/MySqlException (0x80004005) Host 'x' is not allowed to connect to this MySQL server.md",
+    "5 - Main Notes/Dot Net/EF Core/Coding Tutorials - EF Core/Errors encountered",
     "6 - Random Notes/Why not Linq2Db with Identity.md",
     "6 - Random Notes/Logging/Patching up Serialization Errors.md",
-    "5 - Main Notes/Unit Of Work.md",
-    "5 - Main Notes/EF Core/EF Core in Blazor.md",
-    "5 - Main Notes/EF Core/EF Core.md",
-    "5 - Main Notes/EF Core/DBContextFactory.md",
-    "5 - Main Notes/EF Core/DbContext.md",
-    "5 - Main Notes/EF Core/The Model/The model.md",
-    "5 - Main Notes/EF Core/The Model/EF Migrations.md",
-    "0 - Getting started with Obsidian",
-    "3 - Indexes/Placeholder.txt.txt",
-    "2 - Source Material/Videos/Placeholder.txt.txt",
-    "2 - Source Material/Podcasts/Placeholder.txt.txt",
-    "2 - Source Material/Papers/Placeholder.txt.txt",
-    "Untitled.canvas"
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "5 - Main Notes/Dot Net/EF Core/Coding Tutorials - EF Core",
+    "5 - Main Notes/Dot Net/EF Core/Saving Data (CRUD)/Concurrency control.md",
+    "5 - Main Notes/Dot Net/EF Core/The Model/0 - The model.md",
+    "5 - Main Notes/Dot Net/EF Core/Saving Data (CRUD)/0 - Saving Data.md",
+    "5 - Main Notes/Dot Net/ASP.NET Core/Security and Identity/Identity/Identity model customization in ASP.NET Core.md",
+    "5 - Main Notes/Dot Net/CSharp/Language Integrated Query (LINQ).md",
+    "5 - Main Notes/Dot Net/ASP.NET Core/Security and Identity/Miscellaneous/Razor Pages authorization conventions.md",
+    "5 - Main Notes/Dot Net",
+    "5 - Main Notes/Dot Net/EF Core/Miscellaneous",
+    "5 - Main Notes/Dot Net/ASP.NET Core/Blazor",
+    "5 - Main Notes/Dot Net/ASP.NET Core/Security and Identity/Miscellaneous",
+    "5 - Main Notes/Dot Net/ASP.NET Core/Blazor/Blazor CSS",
+    "5 - Main Notes/Dot Net/ASP.NET Core/Performance/Caching",
+    "5 - Main Notes/Dot Net/ASP.NET Core/Performance",
+    "0 - Getting started with Obsidian/ExampleGraphUsage.jpg"
   ]
 }

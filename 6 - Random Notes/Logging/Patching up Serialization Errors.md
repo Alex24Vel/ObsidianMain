@@ -2,7 +2,7 @@
 **PROBLEM:** `System.NotSupportedException: Serialization and deserialization of 'System.Reflection.MethodBase' instances is not supported.`
 
 ```C#
-builder.Services.AddAturisLoggingDebugConsoleAndFile(fileConfig =>
+builder.Services.AddLoggingDebugConsoleAndFile(fileConfig =>
 {
     fileConfig.MinimumLogLevel = Logging.LogLevel.HyperVerbose;
 	// other properties...

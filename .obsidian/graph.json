@@ -1,44 +1,58 @@
 {
   "collapse-filter": false,
   "search": "",
-  "showTags": false,
+  "showTags": true,
   "showAttachments": false,
-  "hideUnresolved": false,
+  "hideUnresolved": true,
   "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "tag:#wartungsapps  ",
+      "query": "tag: #index",
       "color": {
         "a": 1,
-        "rgb": 60656
+        "rgb": 7405434
       }
     },
     {
-      "query": "path:\"5 - Main Notes/ASP.NET Core\"  ",
+      "query": "path:\"5 - Main Notes/Dot Net/EF Core\"  ",
       "color": {
         "a": 1,
-        "rgb": 7355603
+        "rgb": 40447
       }
     },
     {
-      "query": "path:\"5 - Main Notes/EF Core\"  ",
+      "query": "path:\"5 - Main Notes/Dot Net/CSharp\"  ",
       "color": {
         "a": 1,
-        "rgb": 9770239
+        "rgb": 1152000
+      }
+    },
+    {
+      "query": "path:\"5 - Main Notes/Dot Net/ASP.NET Core\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 6498259
+      }
+    },
+    {
+      "query": "path:\"6 - Random Notes\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 15595675
       }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
+  "nodeSizeMultiplier": 0.995192307692308,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 13.8948567708333,
-  "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.34157913570340465,
+  "centerStrength": 0.860446985446986,
+  "repelStrength": 20,
+  "linkStrength": 0.457120582120582,
+  "linkDistance": 266,
+  "scale": 0.5359795996226036,
   "close": false
 }
