@@ -26,9 +26,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5 - Main Notes/Fullcalendar/Using FullCalendar.js in ASP.NET Core web applications.md",
+                "file": "5 - Main Notes/React/1 - Getting Started/1 - Installation.md",
                 "mode": "source",
-                "source": true,
+                "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -41,7 +41,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Using FullCalendar.js in ASP.NET Core web applications"
+              "title": "1 - Installation"
             }
           }
         ],
@@ -58,13 +58,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5 - Main Notes/Fullcalendar/Using FullCalendar.js in ASP.NET Core web applications.md",
+                "file": "5 - Main Notes/React/1 - Getting Started/1 - Installation.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Using FullCalendar.js in ASP.NET Core web applications"
+              "title": "Outline of 1 - Installation"
             }
           }
         ]
@@ -231,13 +231,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "122e30ffe5266c17",
+  "active": "0592fd0997dbf692",
   "lastOpenFiles": [
+    "5 - Main Notes/React/1 - Getting Started/0 - Getting Started with React.md",
+    "5 - Main Notes/React/1 - Getting Started/1 - Installation.md",
+    "5 - Main Notes/React/0 - Index.md",
+    "5 - Main Notes/Fullcalendar/Using FullCalendar.js in ASP.NET Core web applications.md",
+    "5 - Main Notes/React/1 - Getting Started",
+    "5 - Main Notes/React",
     "5 - Main Notes/Dot Net/ASP.NET Core/Blazor/JS Interop/JavaScript Location.md",
     "5 - Main Notes/Dot Net/ASP.NET Core/Blazor/JS Interop/0 - JS Interop.md",
     "5 - Main Notes/Dot Net/ASP.NET Core/Blazor/JS Interop",
     "5 - Main Notes/Fullcalendar/0 - Index.md",
-    "5 - Main Notes/Fullcalendar/Using FullCalendar.js in ASP.NET Core web applications.md",
     "5 - Main Notes/Fullcalendar/Add and display events dynamically in FullCalendar with PHP and MySQL.md",
     "5 - Main Notes/Dot Net/EF Core/Relationships/Random Notes on Relationships in EF Core.md",
     "5 - Main Notes/Fullcalendar",
@@ -262,17 +267,12 @@
     "5 - Main Notes/Dot Net/ASP.NET Core/Funtamentals/Dependency Injection.md",
     "5 - Main Notes/Dot Net/EF Core/Coding Tutorials - EF Core/Part 2 - Code First From DB.md",
     "5 - Main Notes/Dot Net/EF Core/Coding Tutorials - EF Core/Part 1 - Code First Generation.md",
-    "5 - Main Notes/Dot Net/EF Core/Coding Tutorials - EF Core/Errors encountered/MySqlException (0x80004005) Host 'x' is not allowed to connect to this MySQL server.md",
     "5 - Main Notes/Dot Net/EF Core/Coding Tutorials - EF Core/Errors encountered",
-    "6 - Random Notes/Why not Linq2Db with Identity.md",
-    "6 - Random Notes/Logging/Patching up Serialization Errors.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "5 - Main Notes/Dot Net/EF Core/Coding Tutorials - EF Core",
     "5 - Main Notes/Dot Net",
     "5 - Main Notes/Dot Net/EF Core/Miscellaneous",
-    "5 - Main Notes/Dot Net/ASP.NET Core/Blazor",
-    "5 - Main Notes/Dot Net/ASP.NET Core/Security and Identity/Miscellaneous",
     "0 - Getting started with Obsidian/ExampleGraphUsage.jpg"
   ]
 }
