@@ -231,8 +231,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0592fd0997dbf692",
+  "active": "122e30ffe5266c17",
   "lastOpenFiles": [
+    "5 - Main Notes/Dot Net/ASP.NET Core/Blazor/JS Interop/JavaScript Location.md",
+    "5 - Main Notes/Dot Net/ASP.NET Core/Blazor/JS Interop/0 - JS Interop.md",
+    "5 - Main Notes/Dot Net/ASP.NET Core/Blazor/JS Interop",
     "5 - Main Notes/Fullcalendar/0 - Index.md",
     "5 - Main Notes/Fullcalendar/Using FullCalendar.js in ASP.NET Core web applications.md",
     "5 - Main Notes/Fullcalendar/Add and display events dynamically in FullCalendar with PHP and MySQL.md",
@@ -266,13 +269,10 @@
     "Untitled 1.canvas",
     "Untitled.canvas",
     "5 - Main Notes/Dot Net/EF Core/Coding Tutorials - EF Core",
-    "5 - Main Notes/Dot Net/EF Core/Saving Data (CRUD)/Concurrency control.md",
-    "5 - Main Notes/Dot Net/EF Core/The Model/0 - The model.md",
     "5 - Main Notes/Dot Net",
     "5 - Main Notes/Dot Net/EF Core/Miscellaneous",
     "5 - Main Notes/Dot Net/ASP.NET Core/Blazor",
     "5 - Main Notes/Dot Net/ASP.NET Core/Security and Identity/Miscellaneous",
-    "5 - Main Notes/Dot Net/ASP.NET Core/Blazor/Blazor CSS",
     "0 - Getting started with Obsidian/ExampleGraphUsage.jpg"
   ]
 }
