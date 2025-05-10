@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5 - Main Notes/Dot Net/EF Core/Coding Tutorials - EF Core/Part 11 - Relationships.md",
+                "file": "5 - Main Notes/Fullcalendar/Using FullCalendar.js in ASP.NET Core web applications.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -41,7 +41,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Part 11 - Relationships"
+              "title": "Using FullCalendar.js in ASP.NET Core web applications"
             }
           }
         ],
@@ -58,13 +58,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5 - Main Notes/Dot Net/EF Core/Coding Tutorials - EF Core/Part 11 - Relationships.md",
+                "file": "5 - Main Notes/Fullcalendar/Using FullCalendar.js in ASP.NET Core web applications.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Part 11 - Relationships"
+              "title": "Outline of Using FullCalendar.js in ASP.NET Core web applications"
             }
           }
         ]
@@ -233,26 +233,32 @@
   },
   "active": "0592fd0997dbf692",
   "lastOpenFiles": [
+    "5 - Main Notes/Fullcalendar/0 - Index.md",
+    "5 - Main Notes/Fullcalendar/Using FullCalendar.js in ASP.NET Core web applications.md",
+    "5 - Main Notes/Fullcalendar/Add and display events dynamically in FullCalendar with PHP and MySQL.md",
+    "5 - Main Notes/Dot Net/EF Core/Relationships/Random Notes on Relationships in EF Core.md",
+    "5 - Main Notes/Fullcalendar",
     "5 - Main Notes/Dot Net/EF Core/Common Errors/Unable to connect to web server 'https'.md",
+    "5 - Main Notes/Dot Net/EF Core/Relationships",
     "5 - Main Notes/Dot Net/EF Core/Coding Tutorials - EF Core/Part 11 - Relationships.md",
-    "5 - Main Notes/Unable to connect to web server 'https'.md",
     "5 - Main Notes/Dot Net/EF Core/Common Errors/0 - Common Errors.md",
-    "5 - Main Notes/Dot Net/EF Core/Coding Tutorials - EF Core/Part 11 - Relationships ERD.png",
-    "5 - Main Notes/Dot Net/EF Core/Coding Tutorials - EF Core/Part 12 - Inheritance.md",
-    "5 - Main Notes/Dot Net/EF Core/0 - EF Core.md",
-    "5 - Main Notes/Dot Net/EF Core/Common Errors",
-    "5 - Main Notes/Dot Net/EF Core/Coding Tutorials - EF Core/Part 10 - Dynamic Mapping.md",
-    "5 - Main Notes/Dot Net/EF Core/Coding Tutorials - EF Core/0 - Coding Tutorials - EF Core.md",
-    "5 - Main Notes/Dot Net/EF Core/Coding Tutorials - EF Core/Part 9 - The Fluent API.md",
-    "5 - Main Notes/Dot Net/EF Core/Coding Tutorials - EF Core/Part 8 - Attribute-Based Configuration.md",
-    "5 - Main Notes/Dot Net/EF Core/Coding Tutorials - EF Core/Part 7 - Models vs Entities.md",
     "5 - Main Notes/Dot Net/EF Core/Coding Tutorials - EF Core/Part 6 - Code First Migration.md",
+    "5 - Main Notes/Dot Net/EF Core/Coding Tutorials - EF Core/Part 7 - Models vs Entities.md",
     "5 - Main Notes/Dot Net/EF Core/Coding Tutorials - EF Core/Part 5 - Configuration.md",
     "5 - Main Notes/Dot Net/EF Core/Coding Tutorials - EF Core/Part 4 - Eager vs Lazy Loading.md",
+    "5 - Main Notes/Dot Net/EF Core/Coding Tutorials - EF Core/Part 12 - Inheritance.md",
+    "5 - Main Notes/Dot Net/EF Core/Coding Tutorials - EF Core/Part 12 - Inheritance ERD.png",
+    "5 - Main Notes/Dot Net/EF Core/Coding Tutorials - EF Core/Part 8 - Attribute-Based Configuration.md",
+    "5 - Main Notes/Dot Net/EF Core/Coding Tutorials - EF Core/Part 9 - The Fluent API.md",
+    "5 - Main Notes/Dot Net/EF Core/Coding Tutorials - EF Core/Part 10 - Dynamic Mapping.md",
+    "5 - Main Notes/Unable to connect to web server 'https'.md",
+    "5 - Main Notes/Dot Net/EF Core/Coding Tutorials - EF Core/Part 11 - Relationships ERD.png",
+    "5 - Main Notes/Dot Net/EF Core/0 - EF Core.md",
+    "5 - Main Notes/Dot Net/EF Core/Common Errors",
+    "5 - Main Notes/Dot Net/EF Core/Coding Tutorials - EF Core/0 - Coding Tutorials - EF Core.md",
     "5 - Main Notes/Dot Net/ASP.NET Core/Funtamentals/Dependency Injection.md",
     "5 - Main Notes/Dot Net/EF Core/Coding Tutorials - EF Core/Part 2 - Code First From DB.md",
     "5 - Main Notes/Dot Net/EF Core/Coding Tutorials - EF Core/Part 1 - Code First Generation.md",
-    "5 - Main Notes/Dot Net/EF Core/Coding Tutorials - EF Core/Part 12 - Inheritance ERD.png",
     "5 - Main Notes/Dot Net/EF Core/Coding Tutorials - EF Core/Errors encountered/MySqlException (0x80004005) Host 'x' is not allowed to connect to this MySQL server.md",
     "5 - Main Notes/Dot Net/EF Core/Coding Tutorials - EF Core/Errors encountered",
     "6 - Random Notes/Why not Linq2Db with Identity.md",
@@ -262,17 +268,11 @@
     "5 - Main Notes/Dot Net/EF Core/Coding Tutorials - EF Core",
     "5 - Main Notes/Dot Net/EF Core/Saving Data (CRUD)/Concurrency control.md",
     "5 - Main Notes/Dot Net/EF Core/The Model/0 - The model.md",
-    "5 - Main Notes/Dot Net/EF Core/Saving Data (CRUD)/0 - Saving Data.md",
-    "5 - Main Notes/Dot Net/ASP.NET Core/Security and Identity/Identity/Identity model customization in ASP.NET Core.md",
-    "5 - Main Notes/Dot Net/CSharp/Language Integrated Query (LINQ).md",
-    "5 - Main Notes/Dot Net/ASP.NET Core/Security and Identity/Miscellaneous/Razor Pages authorization conventions.md",
     "5 - Main Notes/Dot Net",
     "5 - Main Notes/Dot Net/EF Core/Miscellaneous",
     "5 - Main Notes/Dot Net/ASP.NET Core/Blazor",
     "5 - Main Notes/Dot Net/ASP.NET Core/Security and Identity/Miscellaneous",
     "5 - Main Notes/Dot Net/ASP.NET Core/Blazor/Blazor CSS",
-    "5 - Main Notes/Dot Net/ASP.NET Core/Performance/Caching",
-    "5 - Main Notes/Dot Net/ASP.NET Core/Performance",
     "0 - Getting started with Obsidian/ExampleGraphUsage.jpg"
   ]
 }
